@@ -1,1 +1,1 @@
-# birthday_paradox
+# Birthday_Paradox
