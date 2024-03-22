@@ -19,7 +19,7 @@ birthday_paradox.exe
 ```
 For Unix based systems you can run it using 
 ```bash
-birthday_paradox.exe
+./birthday_paradox
 ```
 
 ## Program logic
