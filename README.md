@@ -1,5 +1,5 @@
 # Birthday_Paradox
-
+ This C++ program calculates the number of students required to achieve a specified probability of two students sharing the same birthday, commonly known as the "Birthday Paradox".
 ## PreRequisites
 - C++ compiler (Supporting C++11 or later)
 - Standard C++ libraries: iostream, cmath
