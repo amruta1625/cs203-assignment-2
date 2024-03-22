@@ -15,11 +15,11 @@ After cloning the above repository , compile the code using C++ compiler.
 Run the Program
 For Windows you can run it using the following code
 ```bash
-birthday_paradox.exe
+birthday.exe
 ```
 For Unix based systems you can run it using 
 ```bash
-./birthday_paradox
+./birthday
 ```
 
 ## Program logic
