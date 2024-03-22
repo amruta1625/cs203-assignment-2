@@ -10,25 +10,25 @@
 ```
 After cloning the above repository , compile the code using C++ compiler.
 ```bash
-      g++ birthday.cpp -o birthday
+    g++ birthday.cpp -o birthday
 ```
 ### Run the Program
 
 
 For Windows you can run it using the following code
 ```bash
-birthday.exe
+    birthday.exe
 ```
 For Unix based systems you can run it using 
 ```bash
-./birthday
+    ./birthday
 ```
 
 ## Program logic
 This program allows users to input a desired probability (between 0 and 1) and calculates the number of students required to achieve that probability of two students sharing the same birthday.
 *  birthdayParadoxProbability(int k)
 
-  This function calculates the probability of the birthday paradox for a given number of people (k).
+    This function calculates the probability of the birthday paradox for a given number of people (k).
   As discussed in class the function calculates the numerator by iteratively multiplying the values (365 - i) for i ranging from 0 to k-1 .
   The denominator represents the total number of possible birthday combinations for k people.
 * findNumberOfStudents(double p)
