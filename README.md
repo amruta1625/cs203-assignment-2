@@ -13,6 +13,8 @@ After cloning the above repository , compile the code using C++ compiler.
       g++ birthday.cpp -o birthday
 ```
 Run the Program
+
+
 For Windows you can run it using the following code
 ```bash
 birthday.exe
