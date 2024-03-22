@@ -6,7 +6,7 @@
 ## Usage
  Clone the above repository using the following code
  ```bash
-     git clone https://github.com/amruta1625/birthday-paradox.git
+     https://github.com/amruta1625/cs203-assignment-2.git
 ```
 After cloning the above repository , compile the code using C++ compiler.
 ```bash
